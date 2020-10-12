@@ -1,11 +1,11 @@
-# dank-memer-auto-typer
+# Dank-memer-auto-typer -
 Auto typer that will type messages to run dank memer commands and get money quick
 
-## Install Dependencies
+## Install Dependencies -
 `pip install -r requirements.txt`
 
 
-## To run
+## To run -
 - Move into dank memer auto typer directory
 - `python main.py`
 
