@@ -22,5 +22,11 @@ while i < 1:
     keyboard.type('pls beg')
     keyboard.press(Key.enter)
     time.sleep(2)
+    keyboad.type('pls hourly')
+    keyboard.press(Key.enter)
+    time.sleep(3600)
+    keyboad.type('pls daily')
+    keyboard.press(Key.enter)
+    time.sleep(86400)
     time.sleep(49)
 
