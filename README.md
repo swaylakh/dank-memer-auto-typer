@@ -35,5 +35,6 @@ Inspired by [Swayx's auto typing macro](https://github.com/Swayx113/dank-memer-a
 
 ## Future improvements 
 - Due to the bot devs having certain plans to combat auto typers, we'll soon require the ability to read messages and reply accordingly. <br>Hence I'll work on a better solution that can do everything a real human being can
+- Make it so that the user can multi task while the macro does its work
  
  Feel free to suggest changes or open issues
