@@ -1,5 +1,5 @@
 '''
-cooldowns mentioned below is the minimum. For the sake of randomness, there will be random 1-5sec cooldown added to these.
+cooldowns mentioned below (in seconds) are the minimum. For the sake of randomness, there will be random 1-5sec cooldown added to these.
 Note: the pink cds always vary and can depend on the bot, feel free to change them how you see appropraite
 '''
 
@@ -21,3 +21,4 @@ sendtoid_cooldown= 9
 #below cooldown is after you mention how many pinks you want to send
 sendjAnswer_cooldown=9
 use_cooldown= 3
+dep_cooldown=1200
