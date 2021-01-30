@@ -20,7 +20,7 @@ Inspired by [Swayx's auto typing macro](https://github.com/Swayx113/dank-memer-a
 - Hunting Rifle (keep extra as it might break!)
 - Fishing Rod (keep extra as it might break!)
 - Laptop(s) (keep extra as it might break!)
-- 1000 or more pinks
+- A couple pinks
 - A couple life savers incase of death from dragons
 
 # Notes
