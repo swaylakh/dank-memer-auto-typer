@@ -62,6 +62,10 @@ def print_hl(scheduler):
     type_send(config.hl_answer)
     scheduler.run_after(print_hl, cd.hl_cooldown)
 
+def print_dep(scheduler):
+    type_send("pls dep all")
+    scheduler.run_after(print_dep, cd.dep_cooldown)
+
 class Scheduler:
     def __init__(self):
         self.ready = []
@@ -104,4 +108,8 @@ if config.slots:
     s.run_soon(print_slots)
 if config.hl:
     s.run_soon(print_hl)
+if config.dep:
+    s.run_soon(print_dep)
 s.run_until_complete()
+
+#use async in future
