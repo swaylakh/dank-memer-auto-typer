@@ -1,5 +1,5 @@
 # Dank memer auto typer -
-Inspired by [Swayx's auto typing macro](https://github.com/Swayx113/dank-memer-auto-typer) that has more features and flexibility. Can use this to auto gamble or even increase command usage 
+Inspired by [Swayx's auto typing macro](https://github.com/Swayx113/dank-memer-auto-typer), this includes more features and flexibility. Can use this to auto gamble or even increase command usage 
 - Let's you choose which commands should run
 - Cooldown is randomised to mimic a regular user
 - Commands are randomised but also optimised to have the least waiting time before running the command again
