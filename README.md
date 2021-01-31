@@ -24,7 +24,7 @@ Inspired by [Swayx's auto typer](https://github.com/Swayx113/dank-memer-auto-typ
 - A couple life savers incase of death from dragons
 
 # Notes
-- You can customize the cooldowns as you see fit in `cooldowns.py`
+- You can customize the cooldowns as you see fit in `cooldowns.py`. Sometimes they'll need to be changed because of bot lag
 - As of 31-Jan-2021, sending a dank memer command after rare catches from fish and hunt will not kill the user. But if the bug is fixed, life savers will be needed to not lose coins
 - This is not the typical self bot as it does not use discord's bot features (using discord API), it's a macro that can type anywhere
 - It cannot read any messages, it only sends what it is told to
