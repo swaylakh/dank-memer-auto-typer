@@ -12,7 +12,7 @@ Inspired by [Swayx's auto typer](https://github.com/Swayx113/dank-memer-auto-typ
 
 ## To run -
 - Move into dank memer auto typer directory
-- Open the config file and set the commands as `True` which you want to send and rest as `False` 
+- Open the `config.py` file and set the commands you want to send as `True` and the rest as `False` 
 - Click on `mainfile.py` to start the auto typer, you will have 5 seconds to click on the discord channel where you want to send messages
   <br>Note: the window where the message needs to be sent should be active; in other words, have your cursor blinking
 
