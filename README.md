@@ -21,3 +21,5 @@ Auto typer that will type messages to run dank memer commands and get money quic
 ## To Tereminate the bot -
 - Just terminate the program without touching any other places where the bot can be given the opportunity to type!
 
+
+`Test Commit`
