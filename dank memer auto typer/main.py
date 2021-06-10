@@ -2,7 +2,7 @@ import pynput
 import random
 import time
 from pynput.keyboard import Key, Controller
-memetypes = ["n" , "e" , "r" , "d"]
+memetypes = ["f" , "r" , "i" , "c", "k" ]
 keyboard = Controller()
 i = 0
 
