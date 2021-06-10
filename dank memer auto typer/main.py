@@ -23,5 +23,8 @@ while i < 1:
     keyboard.type('pls beg')
     keyboard.press(Key.enter)
     time.sleep(2)
+    keyboard.type('pls dig')
+    keyboard.press(Key.enter)
+    time.sleep(2)
     time.sleep(49)
 
