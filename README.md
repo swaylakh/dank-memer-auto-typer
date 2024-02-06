@@ -19,6 +19,6 @@ Auto typer that will type messages to run dank memer commands and get money quic
 - Shovel
 - Laptop(s) (keep extra as it might break!)
 
-## To Tereminate the bot -
+## To Terminate the bot -
 - Just terminate the program without touching any other places where the bot can be given the opportunity to type!
 
